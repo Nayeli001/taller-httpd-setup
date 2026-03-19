@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # --- Configuration Variables ---
-NAMESPACE=cicd-tu-nombre
-GITHUB_USER=tu-usuario
+NAMESPACE=cicd-fatima
+GITHUB_USER=Nayeli001
 GITHUB_TOKEN=tu-token
-GITHUB_SOURCE_REPO=https://github.com/jovemfelix/taller-httpd-application-engineering.git
-GITHUB_CONFIG_REPO=https://github.com/jovemfelix/taller-httpd-release-engineering.git
+GITHUB_SOURCE_REPO=https://github.com/Nayeli001/taller-httpd-application-engineering.git
+GITHUB_CONFIG_REPO=https://github.com/Nayeli001/taller-httpd-release-engineering.git
 APP_NEW_IMAGE_TAG='1.0.1'
 APP_IMAGE_NAME='httpd-demo' 
 
